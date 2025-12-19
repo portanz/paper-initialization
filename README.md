@@ -8,6 +8,9 @@ Run this to install the server:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/portanz/paper-initialization/refs/heads/main/init.sh | bash 
 ```
+
+After running the command, you may want to kill the java process and start the server again (refer to the scripts below)
+
 # Other scripts
 
 All other scripts are installed when init.sh is ran.
