@@ -19,4 +19,6 @@ All other scripts are installed when init.sh is ran.
 
 The server runs on the local IP of your device and uses 25565 as the port.
 
+All scripts are stored in the MinecraftServer folder in your home directory.
+
 After ending the Termux session that had the server running, run killserver.sh!!!
