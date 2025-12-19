@@ -6,4 +6,6 @@ A bunch of simple scripts for initializing a Minecraft Java server in Termux (Pa
 Run this to install the server:
 
 ```bash
-curl -fsSL placeholder| bash
+curl -fsSL https://raw.githubusercontent.com/portanz/paper-initialization/refs/heads/main/init.sh| bash
+
+
