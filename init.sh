@@ -16,7 +16,7 @@ wget https://fill-data.papermc.io/v1/objects/3d806bb668eeb8b592ef17d3e9e8c0c3484
 mv paper-1.21.11-44.jar paper.jar
 
 # Initialize server
-java -Xms1G -Xmx2G -jar paper.jar 
+java -Xms1G -Xmx2G -jar paper.jar nogui
 rm eula.txt 
 wget https://raw.githubusercontent.com/portanz/paper-initialization/refs/heads/main/eula.txt
 wget https://raw.githubusercontent.com/portanz/paper-initialization/refs/heads/main/start.sh
